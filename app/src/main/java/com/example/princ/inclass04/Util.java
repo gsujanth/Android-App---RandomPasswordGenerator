@@ -1,9 +1,5 @@
 package com.example.princ.inclass04;
 
-/*Assignment# - InClass04
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
-*/
 import java.util.Random;
 
 public class Util {

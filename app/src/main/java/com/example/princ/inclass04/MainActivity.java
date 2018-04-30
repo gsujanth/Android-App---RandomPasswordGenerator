@@ -1,8 +1,4 @@
 package com.example.princ.inclass04;
-/*Assignment# - InClass04
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
-*/
 
 import android.app.AlertDialog;
 import android.app.Dialog;
